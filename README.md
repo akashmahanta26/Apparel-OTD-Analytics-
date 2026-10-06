@@ -1,6 +1,6 @@
 # 📊 Retail Apparel – Sample OTD & Production Performance Dashboard
 
-An interactive **Power BI dashboard** developed for a retail apparel client to monitor **Sample On-Time Delivery (OTD), production performance, quality, and operational delays** across the product development lifecycle.
+An interactive **Power BI dashboard** developed for a retail apparel company to monitor **Sample On-Time Delivery (OTD), production performance, quality, and operational delays** across the product development lifecycle. Please note the dataset generated is a fake dataset, the purpose of the project is to demostrate the analytics capabilities, domain expertise and Power BI Dashboarding skills, and the project can be scaled by replacing the fakedataset with original data.
 
 <img width="1095" height="610" alt="image" src="https://github.com/user-attachments/assets/b9601f93-aed0-4fcf-903a-2e9d0c853cf8" />
 
